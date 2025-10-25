@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [CrossMart - The Cross-Country MarketPlace](https://github.com/aymanhaque/Cross-Mart)
+- 🔭 I’m currently working on [CrossMart - The Borderless MarketPlace](https://github.com/aymanhaque/Cross-Mart)
 - 🌱 I’m currently learning cloud fundamentals and monitoring/observability
 - 📫 How to reach me: muhd.ayman.haque@gmail.com
 
