@@ -25,7 +25,7 @@
 # Certifications
 <div align ="left">
 <a href="https://www.credly.com/badges/b19c5536-d982-42ee-90c4-a11fee711542/public_url" target="_blank"><img src="images/clfc02.png" width="120" alt="AWS CLF Cert" style="vertical-align:middle;"/></a>
-<a href="https://www.credly.com/badges/7b315929-3775-41c9-a05c-00385836c360/public_url" target="_blank"><img src="images/pyibm.png" width="120" alt="Datadog" style="vertical-align:middle;"/></a>
+<a href="https://www.credly.com/badges/7b315929-3775-41c9-a05c-00385836c360/public_url" target="_blank"><img src="images/pyibm.png" width="160" alt="Datadog" style="vertical-align:middle;"/></a>
 </div>
 
 <br><br>
