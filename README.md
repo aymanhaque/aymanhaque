@@ -9,15 +9,15 @@
 
 ## Tools and Languages:
 <div align="left">
-<a href="https://www.python.org" target="_blank"><img src="images/python.png" width="50" alt="Python" align="middle"/></a>
-<a href="https://fastapi.tiangolo.com" target="_blank"><img src="images/fastapi.png" width="50" alt="FastAPI" align="middle"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="images/node.png" width="50" alt="Node.js" align="middle"/></a>
-<a href="https://www.java.com" target="_blank"><img src="images/image.png" width="50" alt="Java" align="middle"/></a>
-<a href="https://spring.io" target="_blank"><img src="images/spring.png" width="50" alt="Spring" align="middle"/></a>
-<a href="https://www.langchain.com" target="_blank"><img src="images/langchain.png" width="50" alt="LangChain" align="middle"/></a>
-<a href="https://www.docker.com" target="_blank"><img src="images/docker.png" width="50" alt="Docker" align="middle"/></a>
-<a href="https://kubernetes.io" target="_blank"><img src="images/k8s.png" width="50" alt="Kubernetes" align="middle"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="images/postgres.png" width="50" alt="PostgreSQL" align="middle"/></a>
+<a href="https://www.python.org" target="_blank"><img src="images/python.png" width="50" alt="Python" align="middle"/></a> &nbsp;
+<a href="https://fastapi.tiangolo.com" target="_blank"><img src="images/fastapi.png" width="50" alt="FastAPI" align="middle"/></a> &nbsp;
+<a href="https://nodejs.org" target="_blank"><img src="images/node.png" width="50" alt="Node.js" align="middle"/></a> &nbsp;
+<a href="https://www.java.com" target="_blank"><img src="images/image.png" width="50" alt="Java" align="middle"/></a> &nbsp;
+<a href="https://spring.io" target="_blank"><img src="images/spring.png" width="50" alt="Spring" align="middle"/></a> &nbsp;
+<a href="https://www.langchain.com" target="_blank"><img src="images/langchain.png" width="50" alt="LangChain" align="middle"/></a> &nbsp;
+<a href="https://www.docker.com" target="_blank"><img src="images/docker.png" width="50" alt="Docker" align="middle"/></a> &nbsp;
+<a href="https://kubernetes.io" target="_blank"><img src="images/k8s.png" width="50" alt="Kubernetes" align="middle"/></a> &nbsp;
+<a href="https://www.postgresql.org" target="_blank"><img src="images/postgres.png" width="50" alt="PostgreSQL" align="middle"/></a> &nbsp;
 <a href="https://www.datadoghq.com" target="_blank"><img src="images/datadog.png" width="50" alt="Datadog" align="middle"/></a>
 </div>
 <br>
