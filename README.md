@@ -20,6 +20,8 @@
 <a href="https://kubernetes.io" target="_blank"><img src="images/k8s.png" width="50" alt="Kubernetes" align="middle"/></a> &nbsp;
 <a href="https://www.postgresql.org" target="_blank"><img src="images/postgres.png" width="50" alt="PostgreSQL" align="middle"/></a> &nbsp;
 <a href="https://www.datadoghq.com" target="_blank"><img src="images/datadog.png" width="50" alt="Datadog" align="middle"/></a>
+<a href="https://modelcontextprotocol.io" target="_blank"><img src="images/mcp.png" width="50" alt="Datadog" align="middle"/></a>
+<a href="https://developer.hashicorp.com/terraform" target="_blank"><img src="images/terraform.png" width="50" alt="Datadog" align="middle"/></a>
 </div>
 <br>
 
