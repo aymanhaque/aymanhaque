@@ -33,7 +33,7 @@
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanhaque&layout=compact&theme=onedark)](https://github.com//github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanhaque&layout=compact&theme=onedark&hide=html,css)](https://github.com//github-readme-stats)
 
 <!-- - 💬 Ask me about ... -->
 <!-- - ⚡ Fun fact: ...  -->
